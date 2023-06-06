@@ -158,7 +158,7 @@ Publish the website in the given URL.
 ![image](https://github.com/SAILESHKUMAR33/cover/assets/113497410/11b13774-72c1-47b7-940a-d5d902705e4c)
 
 
-![image](https://github.com/SAILESHKUMAR33/cover/assets/113497410/1d6ad405-b304-4653-8407-2ff078cd9fac)
+![image](https://github.com/SAILESHKUMAR33/cover/assets/113497410/3232916c-a11b-4eaf-928b-98688fcb1c41)
 
 
 ## RESULT:
