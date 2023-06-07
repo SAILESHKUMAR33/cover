@@ -146,7 +146,7 @@ Publish the website in the given URL.
             PACKT>
         </div>
         <div class="edition">
-            <b>F MOHAMED FAREED</b>
+            <b>F SAILESHKUMAR</b>
         </div>
     </div>
 </body>
